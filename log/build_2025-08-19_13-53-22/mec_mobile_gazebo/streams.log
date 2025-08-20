@@ -1,0 +1,26 @@
+[0.009s] Invoking command in '/home/batoddy/Desktop/ros2_ws/build/mec_mobile_gazebo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/batoddy/ros2_ws/install/rtabmap_python:/home/batoddy/ros2_ws/install/my_robot_controller:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/batoddy/Desktop/ros2_ws/build/mec_mobile_gazebo -- -j8 -l8
+[0.050s] Invoked command in '/home/batoddy/Desktop/ros2_ws/build/mec_mobile_gazebo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/batoddy/ros2_ws/install/rtabmap_python:/home/batoddy/ros2_ws/install/my_robot_controller:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/batoddy/Desktop/ros2_ws/build/mec_mobile_gazebo -- -j8 -l8
+[0.051s] Invoking command in '/home/batoddy/Desktop/ros2_ws/build/mec_mobile_gazebo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/batoddy/ros2_ws/install/rtabmap_python:/home/batoddy/ros2_ws/install/my_robot_controller:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/batoddy/Desktop/ros2_ws/build/mec_mobile_gazebo
+[0.064s] -- Install configuration: ""
+[0.064s] -- Up-to-date: /home/batoddy/Desktop/ros2_ws/install/mec_mobile_gazebo/share/mec_mobile_gazebo/launch
+[0.064s] -- Up-to-date: /home/batoddy/Desktop/ros2_ws/install/mec_mobile_gazebo/share/mec_mobile_gazebo/launch/world.launch.py
+[0.065s] -- Up-to-date: /home/batoddy/Desktop/ros2_ws/install/mec_mobile_gazebo/share/mec_mobile_gazebo/launch/spawn_robot.launch.py
+[0.065s] -- Up-to-date: /home/batoddy/Desktop/ros2_ws/install/mec_mobile_gazebo/share/mec_mobile_gazebo/worlds
+[0.065s] -- Up-to-date: /home/batoddy/Desktop/ros2_ws/install/mec_mobile_gazebo/share/mec_mobile_gazebo/worlds/empty.sdf
+[0.065s] -- Installing: /home/batoddy/Desktop/ros2_ws/install/mec_mobile_gazebo/share/mec_mobile_gazebo/worlds/world.sdf
+[0.066s] -- Up-to-date: /home/batoddy/Desktop/ros2_ws/install/mec_mobile_gazebo/share/ament_index/resource_index/package_run_dependencies/mec_mobile_gazebo
+[0.066s] -- Up-to-date: /home/batoddy/Desktop/ros2_ws/install/mec_mobile_gazebo/share/ament_index/resource_index/parent_prefix_path/mec_mobile_gazebo
+[0.067s] -- Up-to-date: /home/batoddy/Desktop/ros2_ws/install/mec_mobile_gazebo/share/mec_mobile_gazebo/environment/ament_prefix_path.sh
+[0.067s] -- Up-to-date: /home/batoddy/Desktop/ros2_ws/install/mec_mobile_gazebo/share/mec_mobile_gazebo/environment/ament_prefix_path.dsv
+[0.067s] -- Up-to-date: /home/batoddy/Desktop/ros2_ws/install/mec_mobile_gazebo/share/mec_mobile_gazebo/environment/path.sh
+[0.068s] -- Up-to-date: /home/batoddy/Desktop/ros2_ws/install/mec_mobile_gazebo/share/mec_mobile_gazebo/environment/path.dsv
+[0.068s] -- Up-to-date: /home/batoddy/Desktop/ros2_ws/install/mec_mobile_gazebo/share/mec_mobile_gazebo/local_setup.bash
+[0.068s] -- Up-to-date: /home/batoddy/Desktop/ros2_ws/install/mec_mobile_gazebo/share/mec_mobile_gazebo/local_setup.sh
+[0.069s] -- Up-to-date: /home/batoddy/Desktop/ros2_ws/install/mec_mobile_gazebo/share/mec_mobile_gazebo/local_setup.zsh
+[0.069s] -- Up-to-date: /home/batoddy/Desktop/ros2_ws/install/mec_mobile_gazebo/share/mec_mobile_gazebo/local_setup.dsv
+[0.069s] -- Installing: /home/batoddy/Desktop/ros2_ws/install/mec_mobile_gazebo/share/mec_mobile_gazebo/package.dsv
+[0.070s] -- Up-to-date: /home/batoddy/Desktop/ros2_ws/install/mec_mobile_gazebo/share/ament_index/resource_index/packages/mec_mobile_gazebo
+[0.070s] -- Up-to-date: /home/batoddy/Desktop/ros2_ws/install/mec_mobile_gazebo/share/mec_mobile_gazebo/cmake/mec_mobile_gazeboConfig.cmake
+[0.070s] -- Up-to-date: /home/batoddy/Desktop/ros2_ws/install/mec_mobile_gazebo/share/mec_mobile_gazebo/cmake/mec_mobile_gazeboConfig-version.cmake
+[0.071s] -- Up-to-date: /home/batoddy/Desktop/ros2_ws/install/mec_mobile_gazebo/share/mec_mobile_gazebo/package.xml
+[0.081s] Invoked command in '/home/batoddy/Desktop/ros2_ws/build/mec_mobile_gazebo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/batoddy/ros2_ws/install/rtabmap_python:/home/batoddy/ros2_ws/install/my_robot_controller:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/batoddy/Desktop/ros2_ws/build/mec_mobile_gazebo

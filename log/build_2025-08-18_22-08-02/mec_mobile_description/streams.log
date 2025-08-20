@@ -1,0 +1,50 @@
+[0.008s] Invoking command in '/home/batoddy/Desktop/ros2_ws/build/mec_mobile_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/batoddy/ros2_ws/install/rtabmap_python:/home/batoddy/ros2_ws/install/my_robot_controller:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/batoddy/Desktop/ros2_ws/src/mec_mobile/mec_mobile_description -DCMAKE_INSTALL_PREFIX=/home/batoddy/Desktop/ros2_ws/install/mec_mobile_description
+[0.019s] -- Found ament_cmake: 2.5.4 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[0.192s] -- Found urdf_tutorial: 1.1.0 (/opt/ros/jazzy/share/urdf_tutorial/cmake)
+[0.194s] -- Found ament_lint_auto: 0.17.2 (/opt/ros/jazzy/share/ament_lint_auto/cmake)
+[0.287s] -- Added test 'lint_cmake' to check CMake code style
+[0.289s] -- Added test 'xmllint' to check XML markup files
+[0.291s] -- Configuring done (0.3s)
+[0.294s] -- Generating done (0.0s)
+[0.295s] -- Build files have been written to: /home/batoddy/Desktop/ros2_ws/build/mec_mobile_description
+[0.297s] Invoked command in '/home/batoddy/Desktop/ros2_ws/build/mec_mobile_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/batoddy/ros2_ws/install/rtabmap_python:/home/batoddy/ros2_ws/install/my_robot_controller:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/batoddy/Desktop/ros2_ws/src/mec_mobile/mec_mobile_description -DCMAKE_INSTALL_PREFIX=/home/batoddy/Desktop/ros2_ws/install/mec_mobile_description
+[0.298s] Invoking command in '/home/batoddy/Desktop/ros2_ws/build/mec_mobile_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/batoddy/ros2_ws/install/rtabmap_python:/home/batoddy/ros2_ws/install/my_robot_controller:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/batoddy/Desktop/ros2_ws/build/mec_mobile_description -- -j8 -l8
+[0.333s] Invoked command in '/home/batoddy/Desktop/ros2_ws/build/mec_mobile_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/batoddy/ros2_ws/install/rtabmap_python:/home/batoddy/ros2_ws/install/my_robot_controller:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/batoddy/Desktop/ros2_ws/build/mec_mobile_description -- -j8 -l8
+[0.341s] Invoking command in '/home/batoddy/Desktop/ros2_ws/build/mec_mobile_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/batoddy/ros2_ws/install/rtabmap_python:/home/batoddy/ros2_ws/install/my_robot_controller:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/batoddy/Desktop/ros2_ws/build/mec_mobile_description
+[0.347s] -- Install configuration: ""
+[0.347s] -- Installing: /home/batoddy/Desktop/ros2_ws/install/mec_mobile_description/share/mec_mobile_description/meshes
+[0.347s] -- Installing: /home/batoddy/Desktop/ros2_ws/install/mec_mobile_description/share/mec_mobile_description/meshes/intel_realsense
+[0.347s] -- Installing: /home/batoddy/Desktop/ros2_ws/install/mec_mobile_description/share/mec_mobile_description/meshes/intel_realsense/visual
+[0.348s] -- Installing: /home/batoddy/Desktop/ros2_ws/install/mec_mobile_description/share/mec_mobile_description/meshes/intel_realsense/visual/d435.stl
+[0.353s] -- Installing: /home/batoddy/Desktop/ros2_ws/install/mec_mobile_description/share/mec_mobile_description/meshes/rplidar
+[0.353s] -- Installing: /home/batoddy/Desktop/ros2_ws/install/mec_mobile_description/share/mec_mobile_description/meshes/rplidar/rplidar_s2.stl
+[0.354s] -- Installing: /home/batoddy/Desktop/ros2_ws/install/mec_mobile_description/share/mec_mobile_description/meshes/robot_3d
+[0.354s] -- Installing: /home/batoddy/Desktop/ros2_ws/install/mec_mobile_description/share/mec_mobile_description/meshes/robot_3d/visual
+[0.354s] -- Installing: /home/batoddy/Desktop/ros2_ws/install/mec_mobile_description/share/mec_mobile_description/meshes/robot_3d/visual/camera_link.STL
+[0.354s] -- Installing: /home/batoddy/Desktop/ros2_ws/install/mec_mobile_description/share/mec_mobile_description/meshes/robot_3d/visual/laser_link.STL
+[0.358s] -- Installing: /home/batoddy/Desktop/ros2_ws/install/mec_mobile_description/share/mec_mobile_description/meshes/robot_3d/visual/back_left_wheel_X3.STL
+[0.359s] -- Installing: /home/batoddy/Desktop/ros2_ws/install/mec_mobile_description/share/mec_mobile_description/meshes/robot_3d/visual/front_right_wheel_X3.STL
+[0.361s] -- Installing: /home/batoddy/Desktop/ros2_ws/install/mec_mobile_description/share/mec_mobile_description/meshes/robot_3d/visual/base_link_X3.STL
+[0.361s] -- Installing: /home/batoddy/Desktop/ros2_ws/install/mec_mobile_description/share/mec_mobile_description/meshes/robot_3d/visual/front_left_wheel_X3.STL
+[0.362s] -- Installing: /home/batoddy/Desktop/ros2_ws/install/mec_mobile_description/share/mec_mobile_description/meshes/robot_3d/visual/back_right_wheel_X3.STL
+[0.363s] -- Installing: /home/batoddy/Desktop/ros2_ws/install/mec_mobile_description/share/mec_mobile_description/urdf
+[0.363s] -- Installing: /home/batoddy/Desktop/ros2_ws/install/mec_mobile_description/share/mec_mobile_description/urdf/control
+[0.364s] -- Installing: /home/batoddy/Desktop/ros2_ws/install/mec_mobile_description/share/mec_mobile_description/urdf/robots
+[0.364s] -- Installing: /home/batoddy/Desktop/ros2_ws/install/mec_mobile_description/share/mec_mobile_description/urdf/sensors
+[0.364s] -- Installing: /home/batoddy/Desktop/ros2_ws/install/mec_mobile_description/share/mec_mobile_description/urdf/mech
+[0.364s] -- Installing: /home/batoddy/Desktop/ros2_ws/install/mec_mobile_description/share/ament_index/resource_index/package_run_dependencies/mec_mobile_description
+[0.364s] -- Installing: /home/batoddy/Desktop/ros2_ws/install/mec_mobile_description/share/ament_index/resource_index/parent_prefix_path/mec_mobile_description
+[0.364s] -- Installing: /home/batoddy/Desktop/ros2_ws/install/mec_mobile_description/share/mec_mobile_description/environment/ament_prefix_path.sh
+[0.364s] -- Installing: /home/batoddy/Desktop/ros2_ws/install/mec_mobile_description/share/mec_mobile_description/environment/ament_prefix_path.dsv
+[0.364s] -- Installing: /home/batoddy/Desktop/ros2_ws/install/mec_mobile_description/share/mec_mobile_description/environment/path.sh
+[0.364s] -- Installing: /home/batoddy/Desktop/ros2_ws/install/mec_mobile_description/share/mec_mobile_description/environment/path.dsv
+[0.365s] -- Installing: /home/batoddy/Desktop/ros2_ws/install/mec_mobile_description/share/mec_mobile_description/local_setup.bash
+[0.365s] -- Installing: /home/batoddy/Desktop/ros2_ws/install/mec_mobile_description/share/mec_mobile_description/local_setup.sh
+[0.365s] -- Installing: /home/batoddy/Desktop/ros2_ws/install/mec_mobile_description/share/mec_mobile_description/local_setup.zsh
+[0.365s] -- Installing: /home/batoddy/Desktop/ros2_ws/install/mec_mobile_description/share/mec_mobile_description/local_setup.dsv
+[0.365s] -- Installing: /home/batoddy/Desktop/ros2_ws/install/mec_mobile_description/share/mec_mobile_description/package.dsv
+[0.365s] -- Installing: /home/batoddy/Desktop/ros2_ws/install/mec_mobile_description/share/ament_index/resource_index/packages/mec_mobile_description
+[0.365s] -- Installing: /home/batoddy/Desktop/ros2_ws/install/mec_mobile_description/share/mec_mobile_description/cmake/mec_mobile_descriptionConfig.cmake
+[0.365s] -- Installing: /home/batoddy/Desktop/ros2_ws/install/mec_mobile_description/share/mec_mobile_description/cmake/mec_mobile_descriptionConfig-version.cmake
+[0.365s] -- Installing: /home/batoddy/Desktop/ros2_ws/install/mec_mobile_description/share/mec_mobile_description/package.xml
+[0.367s] Invoked command in '/home/batoddy/Desktop/ros2_ws/build/mec_mobile_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/batoddy/ros2_ws/install/rtabmap_python:/home/batoddy/ros2_ws/install/my_robot_controller:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/batoddy/Desktop/ros2_ws/build/mec_mobile_description

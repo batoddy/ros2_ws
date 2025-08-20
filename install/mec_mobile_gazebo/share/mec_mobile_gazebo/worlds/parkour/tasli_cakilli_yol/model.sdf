@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<sdf version="1.7">
+  <model name="tasli_cakilli_yol"> <!-- Modelinize benzersiz bir isim verin -->
+    <static>true</static> <!-- Dünya nesneleri genellikle statiktir -->
+    <link name="link">
+      <visual name="visual">
+        <geometry>
+          <mesh>
+            <uri>/home/batoddy/Desktop/ros2_ws/src/mec_mobile/mec_mobile_gazebo/worlds/parkour/tasli_cakilli_yol/meshes/tasli_cakilli_yol.stl</uri> <!-- STL dosyasının yolu -->
+            <scale>0.001 0.001 0.001</scale>  
+          </mesh>
+        </geometry>
+        <!-- İsteğe bağlı: Materyal ve renk ekleyebilirsiniz -->
+        <material>
+            <ambient>0.5 0.5 0.5 1</ambient>
+            <diffuse>0.5 0.5 0.5 1</diffuse>
+            <specular>0.1 0.1 0.1 1</specular>
+        </material>
+      </visual>
+      <collision name="collision">
+        <geometry>
+          <mesh>
+            <uri>/home/batoddy/Desktop/ros2_ws/src/mec_mobile/mec_mobile_gazebo/worlds/parkour/tasli_cakilli_yol/meshes/tasli_cakilli_yol.stl</uri>
+            <scale>0.001 0.001 0.001</scale>  
+          </mesh>
+        </geometry>
+        <!-- İsteğe bağlı: Sürtünme vb. özellikler ekleyebilirsiniz -->
+        <surface>
+          <friction>
+            <ode>
+              <mu>1.0</mu>
+              <mu2>1.0</mu2>
+            </ode>
+          </friction>
+        </surface>
+      </collision>
+    </link>
+  </model>
+</sdf>

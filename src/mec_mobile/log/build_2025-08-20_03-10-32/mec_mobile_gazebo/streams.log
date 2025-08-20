@@ -1,0 +1,110 @@
+[0.012s] Invoking command in '/home/batoddy/Desktop/ros2_ws/src/mec_mobile/build/mec_mobile_gazebo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/batoddy/ros2_ws/install/rtabmap_python:/home/batoddy/ros2_ws/install/my_robot_controller:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/batoddy/Desktop/ros2_ws/src/mec_mobile/mec_mobile_gazebo -DCMAKE_INSTALL_PREFIX=/home/batoddy/Desktop/ros2_ws/src/mec_mobile/install/mec_mobile_gazebo
+[0.129s] -- The C compiler identification is GNU 13.3.0
+[0.242s] -- The CXX compiler identification is GNU 13.3.0
+[0.266s] -- Detecting C compiler ABI info
+[0.382s] -- Detecting C compiler ABI info - done
+[0.394s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.394s] -- Detecting C compile features
+[0.395s] -- Detecting C compile features - done
+[0.407s] -- Detecting CXX compiler ABI info
+[0.552s] -- Detecting CXX compiler ABI info - done
+[0.565s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.565s] -- Detecting CXX compile features
+[0.566s] -- Detecting CXX compile features - done
+[0.576s] -- Found ament_cmake: 2.5.4 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[0.777s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[0.934s] -- Found ros_gz_sim: 1.0.15 (/opt/ros/jazzy/share/ros_gz_sim/cmake)
+[1.012s] -- Found rosidl_generator_c: 4.6.5 (/opt/ros/jazzy/share/rosidl_generator_c/cmake)
+[1.036s] -- Found rosidl_generator_cpp: 4.6.5 (/opt/ros/jazzy/share/rosidl_generator_cpp/cmake)
+[1.071s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.109s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.247s] -- Found rmw_implementation_cmake: 7.3.2 (/opt/ros/jazzy/share/rmw_implementation_cmake/cmake)
+[1.257s] -- Found rmw_fastrtps_cpp: 8.4.2 (/opt/ros/jazzy/share/rmw_fastrtps_cpp/cmake)
+[1.381s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.13")  
+[1.404s] -- Found FastRTPS: /opt/ros/jazzy/include (Required is at least version "2.13") 
+[1.428s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[1.772s] -- Found ament_lint_auto: 0.17.2 (/opt/ros/jazzy/share/ament_lint_auto/cmake)
+[1.894s] -- Added test 'flake8' to check Python code syntax and style conventions
+[1.894s] -- Configured 'flake8' exclude dirs and/or files: 
+[1.896s] -- Added test 'lint_cmake' to check CMake code style
+[1.898s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[1.904s] -- Added test 'xmllint' to check XML markup files
+[1.907s] -- Configuring done (1.9s)
+[1.913s] -- Generating done (0.0s)
+[1.918s] -- Build files have been written to: /home/batoddy/Desktop/ros2_ws/src/mec_mobile/build/mec_mobile_gazebo
+[1.929s] Invoked command in '/home/batoddy/Desktop/ros2_ws/src/mec_mobile/build/mec_mobile_gazebo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/batoddy/ros2_ws/install/rtabmap_python:/home/batoddy/ros2_ws/install/my_robot_controller:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/batoddy/Desktop/ros2_ws/src/mec_mobile/mec_mobile_gazebo -DCMAKE_INSTALL_PREFIX=/home/batoddy/Desktop/ros2_ws/src/mec_mobile/install/mec_mobile_gazebo
+[1.930s] Invoking command in '/home/batoddy/Desktop/ros2_ws/src/mec_mobile/build/mec_mobile_gazebo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/batoddy/ros2_ws/install/rtabmap_python:/home/batoddy/ros2_ws/install/my_robot_controller:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/batoddy/Desktop/ros2_ws/src/mec_mobile/build/mec_mobile_gazebo -- -j8 -l8
+[1.971s] Invoked command in '/home/batoddy/Desktop/ros2_ws/src/mec_mobile/build/mec_mobile_gazebo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/batoddy/ros2_ws/install/rtabmap_python:/home/batoddy/ros2_ws/install/my_robot_controller:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/batoddy/Desktop/ros2_ws/src/mec_mobile/build/mec_mobile_gazebo -- -j8 -l8
+[1.972s] Invoking command in '/home/batoddy/Desktop/ros2_ws/src/mec_mobile/build/mec_mobile_gazebo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/batoddy/ros2_ws/install/rtabmap_python:/home/batoddy/ros2_ws/install/my_robot_controller:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/batoddy/Desktop/ros2_ws/src/mec_mobile/build/mec_mobile_gazebo
+[1.981s] -- Install configuration: ""
+[1.981s] -- Installing: /home/batoddy/Desktop/ros2_ws/src/mec_mobile/install/mec_mobile_gazebo/share/mec_mobile_gazebo/launch
+[1.981s] -- Installing: /home/batoddy/Desktop/ros2_ws/src/mec_mobile/install/mec_mobile_gazebo/share/mec_mobile_gazebo/launch/world.launch.py
+[1.981s] -- Installing: /home/batoddy/Desktop/ros2_ws/src/mec_mobile/install/mec_mobile_gazebo/share/mec_mobile_gazebo/launch/spawn_robot.launch.py
+[1.981s] -- Installing: /home/batoddy/Desktop/ros2_ws/src/mec_mobile/install/mec_mobile_gazebo/share/mec_mobile_gazebo/worlds
+[1.981s] -- Installing: /home/batoddy/Desktop/ros2_ws/src/mec_mobile/install/mec_mobile_gazebo/share/mec_mobile_gazebo/worlds/parkour
+[1.981s] -- Installing: /home/batoddy/Desktop/ros2_ws/src/mec_mobile/install/mec_mobile_gazebo/share/mec_mobile_gazebo/worlds/parkour/dik_egim
+[1.981s] -- Installing: /home/batoddy/Desktop/ros2_ws/src/mec_mobile/install/mec_mobile_gazebo/share/mec_mobile_gazebo/worlds/parkour/dik_egim/model.sdf
+[1.981s] -- Installing: /home/batoddy/Desktop/ros2_ws/src/mec_mobile/install/mec_mobile_gazebo/share/mec_mobile_gazebo/worlds/parkour/dik_egim/meshes
+[1.981s] -- Installing: /home/batoddy/Desktop/ros2_ws/src/mec_mobile/install/mec_mobile_gazebo/share/mec_mobile_gazebo/worlds/parkour/dik_egim/meshes/dik_egim.stl
+[1.982s] -- Installing: /home/batoddy/Desktop/ros2_ws/src/mec_mobile/install/mec_mobile_gazebo/share/mec_mobile_gazebo/worlds/parkour/tabelalar
+[1.983s] -- Installing: /home/batoddy/Desktop/ros2_ws/src/mec_mobile/install/mec_mobile_gazebo/share/mec_mobile_gazebo/worlds/parkour/tabelalar/model.sdf
+[1.983s] -- Installing: /home/batoddy/Desktop/ros2_ws/src/mec_mobile/install/mec_mobile_gazebo/share/mec_mobile_gazebo/worlds/parkour/tabelalar/meshes
+[1.983s] -- Installing: /home/batoddy/Desktop/ros2_ws/src/mec_mobile/install/mec_mobile_gazebo/share/mec_mobile_gazebo/worlds/parkour/tabelalar/meshes/tabelalar.stl
+[1.991s] -- Installing: /home/batoddy/Desktop/ros2_ws/src/mec_mobile/install/mec_mobile_gazebo/share/mec_mobile_gazebo/worlds/parkour/cizgiler
+[1.991s] -- Installing: /home/batoddy/Desktop/ros2_ws/src/mec_mobile/install/mec_mobile_gazebo/share/mec_mobile_gazebo/worlds/parkour/cizgiler/model.sdf
+[1.991s] -- Installing: /home/batoddy/Desktop/ros2_ws/src/mec_mobile/install/mec_mobile_gazebo/share/mec_mobile_gazebo/worlds/parkour/cizgiler/meshes
+[1.991s] -- Installing: /home/batoddy/Desktop/ros2_ws/src/mec_mobile/install/mec_mobile_gazebo/share/mec_mobile_gazebo/worlds/parkour/cizgiler/meshes/cizgiler.stl
+[1.991s] -- Installing: /home/batoddy/Desktop/ros2_ws/src/mec_mobile/install/mec_mobile_gazebo/share/mec_mobile_gazebo/worlds/parkour/tasli_cakilli_yol
+[1.992s] -- Installing: /home/batoddy/Desktop/ros2_ws/src/mec_mobile/install/mec_mobile_gazebo/share/mec_mobile_gazebo/worlds/parkour/tasli_cakilli_yol/model.sdf
+[1.992s] -- Installing: /home/batoddy/Desktop/ros2_ws/src/mec_mobile/install/mec_mobile_gazebo/share/mec_mobile_gazebo/worlds/parkour/tasli_cakilli_yol/meshes
+[1.992s] -- Installing: /home/batoddy/Desktop/ros2_ws/src/mec_mobile/install/mec_mobile_gazebo/share/mec_mobile_gazebo/worlds/parkour/tasli_cakilli_yol/meshes/tasli_cakilli_yol.stl
+[2.025s] -- Installing: /home/batoddy/Desktop/ros2_ws/src/mec_mobile/install/mec_mobile_gazebo/share/mec_mobile_gazebo/worlds/parkour/bariyer
+[2.025s] -- Installing: /home/batoddy/Desktop/ros2_ws/src/mec_mobile/install/mec_mobile_gazebo/share/mec_mobile_gazebo/worlds/parkour/bariyer/model.sdf
+[2.025s] -- Installing: /home/batoddy/Desktop/ros2_ws/src/mec_mobile/install/mec_mobile_gazebo/share/mec_mobile_gazebo/worlds/parkour/bariyer/meshes
+[2.025s] -- Installing: /home/batoddy/Desktop/ros2_ws/src/mec_mobile/install/mec_mobile_gazebo/share/mec_mobile_gazebo/worlds/parkour/bariyer/meshes/bariyer.stl
+[2.029s] -- Installing: /home/batoddy/Desktop/ros2_ws/src/mec_mobile/install/mec_mobile_gazebo/share/mec_mobile_gazebo/worlds/parkour/kukalar
+[2.029s] -- Installing: /home/batoddy/Desktop/ros2_ws/src/mec_mobile/install/mec_mobile_gazebo/share/mec_mobile_gazebo/worlds/parkour/kukalar/model.sdf
+[2.029s] -- Installing: /home/batoddy/Desktop/ros2_ws/src/mec_mobile/install/mec_mobile_gazebo/share/mec_mobile_gazebo/worlds/parkour/kukalar/meshes
+[2.029s] -- Installing: /home/batoddy/Desktop/ros2_ws/src/mec_mobile/install/mec_mobile_gazebo/share/mec_mobile_gazebo/worlds/parkour/kukalar/meshes/kukalar.stl
+[2.082s] -- Installing: /home/batoddy/Desktop/ros2_ws/src/mec_mobile/install/mec_mobile_gazebo/share/mec_mobile_gazebo/worlds/parkour/dik_engel
+[2.082s] -- Installing: /home/batoddy/Desktop/ros2_ws/src/mec_mobile/install/mec_mobile_gazebo/share/mec_mobile_gazebo/worlds/parkour/dik_engel/model.sdf
+[2.082s] -- Installing: /home/batoddy/Desktop/ros2_ws/src/mec_mobile/install/mec_mobile_gazebo/share/mec_mobile_gazebo/worlds/parkour/dik_engel/meshes
+[2.082s] -- Installing: /home/batoddy/Desktop/ros2_ws/src/mec_mobile/install/mec_mobile_gazebo/share/mec_mobile_gazebo/worlds/parkour/dik_engel/meshes/dik_engel.stl
+[2.082s] -- Installing: /home/batoddy/Desktop/ros2_ws/src/mec_mobile/install/mec_mobile_gazebo/share/mec_mobile_gazebo/worlds/parkour/yan_egim
+[2.082s] -- Installing: /home/batoddy/Desktop/ros2_ws/src/mec_mobile/install/mec_mobile_gazebo/share/mec_mobile_gazebo/worlds/parkour/yan_egim/model.sdf
+[2.082s] -- Installing: /home/batoddy/Desktop/ros2_ws/src/mec_mobile/install/mec_mobile_gazebo/share/mec_mobile_gazebo/worlds/parkour/yan_egim/meshes
+[2.083s] -- Installing: /home/batoddy/Desktop/ros2_ws/src/mec_mobile/install/mec_mobile_gazebo/share/mec_mobile_gazebo/worlds/parkour/yan_egim/meshes/yan_egim.stl
+[2.086s] -- Installing: /home/batoddy/Desktop/ros2_ws/src/mec_mobile/install/mec_mobile_gazebo/share/mec_mobile_gazebo/worlds/parkour/sudan_gecis
+[2.086s] -- Installing: /home/batoddy/Desktop/ros2_ws/src/mec_mobile/install/mec_mobile_gazebo/share/mec_mobile_gazebo/worlds/parkour/sudan_gecis/model.sdf
+[2.086s] -- Installing: /home/batoddy/Desktop/ros2_ws/src/mec_mobile/install/mec_mobile_gazebo/share/mec_mobile_gazebo/worlds/parkour/sudan_gecis/meshes
+[2.086s] -- Installing: /home/batoddy/Desktop/ros2_ws/src/mec_mobile/install/mec_mobile_gazebo/share/mec_mobile_gazebo/worlds/parkour/sudan_gecis/meshes/sudan_gecis.stl
+[2.088s] -- Installing: /home/batoddy/Desktop/ros2_ws/src/mec_mobile/install/mec_mobile_gazebo/share/mec_mobile_gazebo/worlds/parkour/yol
+[2.088s] -- Installing: /home/batoddy/Desktop/ros2_ws/src/mec_mobile/install/mec_mobile_gazebo/share/mec_mobile_gazebo/worlds/parkour/yol/model.sdf
+[2.088s] -- Installing: /home/batoddy/Desktop/ros2_ws/src/mec_mobile/install/mec_mobile_gazebo/share/mec_mobile_gazebo/worlds/parkour/yol/meshes
+[2.089s] -- Installing: /home/batoddy/Desktop/ros2_ws/src/mec_mobile/install/mec_mobile_gazebo/share/mec_mobile_gazebo/worlds/parkour/yol/meshes/yol.stl
+[2.100s] -- Installing: /home/batoddy/Desktop/ros2_ws/src/mec_mobile/install/mec_mobile_gazebo/share/mec_mobile_gazebo/worlds/parkour/engebeli_arazi
+[2.100s] -- Installing: /home/batoddy/Desktop/ros2_ws/src/mec_mobile/install/mec_mobile_gazebo/share/mec_mobile_gazebo/worlds/parkour/engebeli_arazi/model.sdf
+[2.100s] -- Installing: /home/batoddy/Desktop/ros2_ws/src/mec_mobile/install/mec_mobile_gazebo/share/mec_mobile_gazebo/worlds/parkour/engebeli_arazi/meshes
+[2.100s] -- Installing: /home/batoddy/Desktop/ros2_ws/src/mec_mobile/install/mec_mobile_gazebo/share/mec_mobile_gazebo/worlds/parkour/engebeli_arazi/meshes/engebeli_arazi.stl
+[2.131s] -- Installing: /home/batoddy/Desktop/ros2_ws/src/mec_mobile/install/mec_mobile_gazebo/share/mec_mobile_gazebo/worlds/parkour/zemin
+[2.131s] -- Installing: /home/batoddy/Desktop/ros2_ws/src/mec_mobile/install/mec_mobile_gazebo/share/mec_mobile_gazebo/worlds/parkour/zemin/model.sdf
+[2.131s] -- Installing: /home/batoddy/Desktop/ros2_ws/src/mec_mobile/install/mec_mobile_gazebo/share/mec_mobile_gazebo/worlds/parkour/zemin/meshes
+[2.131s] -- Installing: /home/batoddy/Desktop/ros2_ws/src/mec_mobile/install/mec_mobile_gazebo/share/mec_mobile_gazebo/worlds/parkour/zemin/meshes/zemin.stl
+[2.132s] -- Installing: /home/batoddy/Desktop/ros2_ws/src/mec_mobile/install/mec_mobile_gazebo/share/mec_mobile_gazebo/worlds/parkour.sdf
+[2.132s] -- Installing: /home/batoddy/Desktop/ros2_ws/src/mec_mobile/install/mec_mobile_gazebo/share/mec_mobile_gazebo/worlds/world.sdf
+[2.133s] -- Installing: /home/batoddy/Desktop/ros2_ws/src/mec_mobile/install/mec_mobile_gazebo/share/ament_index/resource_index/package_run_dependencies/mec_mobile_gazebo
+[2.133s] -- Installing: /home/batoddy/Desktop/ros2_ws/src/mec_mobile/install/mec_mobile_gazebo/share/ament_index/resource_index/parent_prefix_path/mec_mobile_gazebo
+[2.133s] -- Installing: /home/batoddy/Desktop/ros2_ws/src/mec_mobile/install/mec_mobile_gazebo/share/mec_mobile_gazebo/environment/ament_prefix_path.sh
+[2.133s] -- Installing: /home/batoddy/Desktop/ros2_ws/src/mec_mobile/install/mec_mobile_gazebo/share/mec_mobile_gazebo/environment/ament_prefix_path.dsv
+[2.133s] -- Installing: /home/batoddy/Desktop/ros2_ws/src/mec_mobile/install/mec_mobile_gazebo/share/mec_mobile_gazebo/environment/path.sh
+[2.134s] -- Installing: /home/batoddy/Desktop/ros2_ws/src/mec_mobile/install/mec_mobile_gazebo/share/mec_mobile_gazebo/environment/path.dsv
+[2.134s] -- Installing: /home/batoddy/Desktop/ros2_ws/src/mec_mobile/install/mec_mobile_gazebo/share/mec_mobile_gazebo/local_setup.bash
+[2.134s] -- Installing: /home/batoddy/Desktop/ros2_ws/src/mec_mobile/install/mec_mobile_gazebo/share/mec_mobile_gazebo/local_setup.sh
+[2.134s] -- Installing: /home/batoddy/Desktop/ros2_ws/src/mec_mobile/install/mec_mobile_gazebo/share/mec_mobile_gazebo/local_setup.zsh
+[2.134s] -- Installing: /home/batoddy/Desktop/ros2_ws/src/mec_mobile/install/mec_mobile_gazebo/share/mec_mobile_gazebo/local_setup.dsv
+[2.134s] -- Installing: /home/batoddy/Desktop/ros2_ws/src/mec_mobile/install/mec_mobile_gazebo/share/mec_mobile_gazebo/package.dsv
+[2.134s] -- Installing: /home/batoddy/Desktop/ros2_ws/src/mec_mobile/install/mec_mobile_gazebo/share/ament_index/resource_index/packages/mec_mobile_gazebo
+[2.135s] -- Installing: /home/batoddy/Desktop/ros2_ws/src/mec_mobile/install/mec_mobile_gazebo/share/mec_mobile_gazebo/cmake/mec_mobile_gazeboConfig.cmake
+[2.135s] -- Installing: /home/batoddy/Desktop/ros2_ws/src/mec_mobile/install/mec_mobile_gazebo/share/mec_mobile_gazebo/cmake/mec_mobile_gazeboConfig-version.cmake
+[2.135s] -- Installing: /home/batoddy/Desktop/ros2_ws/src/mec_mobile/install/mec_mobile_gazebo/share/mec_mobile_gazebo/package.xml
+[2.137s] Invoked command in '/home/batoddy/Desktop/ros2_ws/src/mec_mobile/build/mec_mobile_gazebo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/batoddy/ros2_ws/install/rtabmap_python:/home/batoddy/ros2_ws/install/my_robot_controller:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/batoddy/Desktop/ros2_ws/src/mec_mobile/build/mec_mobile_gazebo

@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<sdf version="1.7">
+  <world name="empty_world">
+    <!-- Physics ayarları -->
+    <physics name="default_physics" type="ode">
+      <max_step_size>0.001</max_step_size>
+      <real_time_update_rate>1000</real_time_update_rate>
+    </physics>
+
+    <!-- Ortama ışık kaynağı -->
+    <include>
+      <uri>model://sun</uri>
+    </include>
+
+    <!-- Düz zemin -->
+    <include>
+      <uri>model://ground_plane</uri>
+    </include>
+
+    <!-- Kamera pozisyonu -->
+    <gui fullscreen="0">
+      <camera name="user_camera">
+        <pose>0 0 5 0 0 0</pose>
+      </camera>
+    </gui>
+  </world>
+</sdf>

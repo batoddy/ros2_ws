@@ -1,0 +1,24 @@
+[0.014s] Invoking command in '/home/batoddy/Desktop/ros2_ws/build/mec_mobile_navigation': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/batoddy/ros2_ws/install/rtabmap_python:/home/batoddy/ros2_ws/install/my_robot_controller:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/batoddy/Desktop/ros2_ws/build/mec_mobile_navigation -- -j8 -l8
+[0.070s] Invoked command in '/home/batoddy/Desktop/ros2_ws/build/mec_mobile_navigation' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/batoddy/ros2_ws/install/rtabmap_python:/home/batoddy/ros2_ws/install/my_robot_controller:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/batoddy/Desktop/ros2_ws/build/mec_mobile_navigation -- -j8 -l8
+[0.071s] Invoking command in '/home/batoddy/Desktop/ros2_ws/build/mec_mobile_navigation': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/batoddy/ros2_ws/install/rtabmap_python:/home/batoddy/ros2_ws/install/my_robot_controller:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/batoddy/Desktop/ros2_ws/build/mec_mobile_navigation
+[0.105s] -- Install configuration: ""
+[0.105s] -- Up-to-date: /home/batoddy/Desktop/ros2_ws/install/mec_mobile_navigation/share/mec_mobile_navigation/launch
+[0.105s] -- Installing: /home/batoddy/Desktop/ros2_ws/install/mec_mobile_navigation/share/mec_mobile_navigation/launch/spawn_robot.launch.py
+[0.106s] -- Up-to-date: /home/batoddy/Desktop/ros2_ws/install/mec_mobile_navigation/share/mec_mobile_navigation/config
+[0.107s] -- Up-to-date: /home/batoddy/Desktop/ros2_ws/install/mec_mobile_navigation/share/mec_mobile_navigation/config/ekf.yaml
+[0.107s] -- Up-to-date: /home/batoddy/Desktop/ros2_ws/install/mec_mobile_navigation/share/ament_index/resource_index/package_run_dependencies/mec_mobile_navigation
+[0.107s] -- Up-to-date: /home/batoddy/Desktop/ros2_ws/install/mec_mobile_navigation/share/ament_index/resource_index/parent_prefix_path/mec_mobile_navigation
+[0.107s] -- Up-to-date: /home/batoddy/Desktop/ros2_ws/install/mec_mobile_navigation/share/mec_mobile_navigation/environment/ament_prefix_path.sh
+[0.108s] -- Up-to-date: /home/batoddy/Desktop/ros2_ws/install/mec_mobile_navigation/share/mec_mobile_navigation/environment/ament_prefix_path.dsv
+[0.108s] -- Up-to-date: /home/batoddy/Desktop/ros2_ws/install/mec_mobile_navigation/share/mec_mobile_navigation/environment/path.sh
+[0.108s] -- Up-to-date: /home/batoddy/Desktop/ros2_ws/install/mec_mobile_navigation/share/mec_mobile_navigation/environment/path.dsv
+[0.108s] -- Up-to-date: /home/batoddy/Desktop/ros2_ws/install/mec_mobile_navigation/share/mec_mobile_navigation/local_setup.bash
+[0.108s] -- Up-to-date: /home/batoddy/Desktop/ros2_ws/install/mec_mobile_navigation/share/mec_mobile_navigation/local_setup.sh
+[0.109s] -- Up-to-date: /home/batoddy/Desktop/ros2_ws/install/mec_mobile_navigation/share/mec_mobile_navigation/local_setup.zsh
+[0.109s] -- Up-to-date: /home/batoddy/Desktop/ros2_ws/install/mec_mobile_navigation/share/mec_mobile_navigation/local_setup.dsv
+[0.109s] -- Installing: /home/batoddy/Desktop/ros2_ws/install/mec_mobile_navigation/share/mec_mobile_navigation/package.dsv
+[0.109s] -- Up-to-date: /home/batoddy/Desktop/ros2_ws/install/mec_mobile_navigation/share/ament_index/resource_index/packages/mec_mobile_navigation
+[0.110s] -- Up-to-date: /home/batoddy/Desktop/ros2_ws/install/mec_mobile_navigation/share/mec_mobile_navigation/cmake/mec_mobile_navigationConfig.cmake
+[0.110s] -- Up-to-date: /home/batoddy/Desktop/ros2_ws/install/mec_mobile_navigation/share/mec_mobile_navigation/cmake/mec_mobile_navigationConfig-version.cmake
+[0.110s] -- Up-to-date: /home/batoddy/Desktop/ros2_ws/install/mec_mobile_navigation/share/mec_mobile_navigation/package.xml
+[0.131s] Invoked command in '/home/batoddy/Desktop/ros2_ws/build/mec_mobile_navigation' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/batoddy/ros2_ws/install/rtabmap_python:/home/batoddy/ros2_ws/install/my_robot_controller:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/batoddy/Desktop/ros2_ws/build/mec_mobile_navigation

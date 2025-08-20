@@ -1,0 +1,15 @@
+/home/batoddy/Desktop/ros2_ws/src/mec_mobile/install/mec_mobile/share/ament_index/resource_index/package_run_dependencies/mec_mobile
+/home/batoddy/Desktop/ros2_ws/src/mec_mobile/install/mec_mobile/share/ament_index/resource_index/parent_prefix_path/mec_mobile
+/home/batoddy/Desktop/ros2_ws/src/mec_mobile/install/mec_mobile/share/mec_mobile/environment/ament_prefix_path.sh
+/home/batoddy/Desktop/ros2_ws/src/mec_mobile/install/mec_mobile/share/mec_mobile/environment/ament_prefix_path.dsv
+/home/batoddy/Desktop/ros2_ws/src/mec_mobile/install/mec_mobile/share/mec_mobile/environment/path.sh
+/home/batoddy/Desktop/ros2_ws/src/mec_mobile/install/mec_mobile/share/mec_mobile/environment/path.dsv
+/home/batoddy/Desktop/ros2_ws/src/mec_mobile/install/mec_mobile/share/mec_mobile/local_setup.bash
+/home/batoddy/Desktop/ros2_ws/src/mec_mobile/install/mec_mobile/share/mec_mobile/local_setup.sh
+/home/batoddy/Desktop/ros2_ws/src/mec_mobile/install/mec_mobile/share/mec_mobile/local_setup.zsh
+/home/batoddy/Desktop/ros2_ws/src/mec_mobile/install/mec_mobile/share/mec_mobile/local_setup.dsv
+/home/batoddy/Desktop/ros2_ws/src/mec_mobile/install/mec_mobile/share/mec_mobile/package.dsv
+/home/batoddy/Desktop/ros2_ws/src/mec_mobile/install/mec_mobile/share/ament_index/resource_index/packages/mec_mobile
+/home/batoddy/Desktop/ros2_ws/src/mec_mobile/install/mec_mobile/share/mec_mobile/cmake/mec_mobileConfig.cmake
+/home/batoddy/Desktop/ros2_ws/src/mec_mobile/install/mec_mobile/share/mec_mobile/cmake/mec_mobileConfig-version.cmake
+/home/batoddy/Desktop/ros2_ws/src/mec_mobile/install/mec_mobile/share/mec_mobile/package.xml
